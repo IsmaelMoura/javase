@@ -1,7 +1,6 @@
 package blocos;
 
 public class Blocos {
-	// atributos
 	public int resistencia;
 	public String textura;
 
@@ -30,15 +29,23 @@ public class Blocos {
 
 	}
 
-	// metodos
+	/**
+	 * construir
+	 */
 	public void construir() {
 		System.out.println("Você colocou um bloco");
 	}
 
+	/**
+	 * minerar
+	 */
 	public void minerar() {
 		System.out.println("Você minerou um bloco");
 	}
 
+	/**
+	 * craftar
+	 */
 	public void craftar() {
 		System.out.println("Você craftou um item");
 	}
