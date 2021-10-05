@@ -1,5 +1,5 @@
 # Aulas POO - Senac Tatuapé
-Projetos de Java criados para o curso Técnico em Informática do Senac Tatuapé
+Projetos de Java criado para o curso Técnico em Informática do Senac Tatuapé
 Aulas sobre Programação Orientada a Objeto (POO)
 
 ## Autor
@@ -10,8 +10,6 @@ Ismael de Sousa
 
 ## IDE Utilizada
 * Eclipse
-
-## 
 
 ## Licença
 Este projeto está licenciado sob a licença MIT - Consulte o arquivo LICENSE.md para detalhes.
